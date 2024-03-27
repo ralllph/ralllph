@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ralllph
-- 👀 I’m interested in web develoment, React js,java,spring boot
-- 🌱 I’m currently Freelancing 
+- 👀 I’m interested in web develoment, React js,Express,java,spring boot,C#
+- 🌱 Software Engineer
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me email:raphaelizueke@gmail.com
 
